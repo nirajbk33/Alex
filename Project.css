@@ -1,0 +1,73 @@
+.nav{
+    height:70px;
+    width:auto;
+    background-color:white;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.logo{
+    color:Black;
+    font-family:'Abril Fatface', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+    margin-right:200px;
+    letter-spacing:4px;
+}
+
+.navitem{
+    width:500px;
+    color:black;
+    font-weight:200;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    gap: 40px;
+    font-size: 12px;
+    margin-right:50px;
+    align-items: center;
+}
+
+.a1{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    font-size: 20%;
+}
+
+.btn{
+    background-color:#363D7A;
+    width:155px;
+    height:25px;
+    color: white;
+    font-size:11px;
+    text-align: center;
+    border-radius:3px;
+    align-items: center;
+    padding-top: 10px;
+    font-weight:800;
+    font-family: 'Roboto', sans-serif;
+}
+
+img{
+    width: 100%;
+    height:600px;
+}
+
+.a2{
+    margin-top:-600px;
+  }
+
+.p1{
+    font-size:32px;
+    font-weight:400;
+    margin-top:210px;
+    margin-left:150px;
+    font-family: 'Abril Fatface', serif;
+    letter-spacing:4px;
+    color: #201D48;
+    line-height:48px;
+    
+}
+
+
+ 
